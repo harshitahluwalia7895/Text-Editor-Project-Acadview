@@ -6,7 +6,7 @@ Adding:
 import os
 from tkinter import Tk, PhotoImage, Menu, Frame, Text, Scrollbar, IntVar, \
     StringVar, END
-
+from tkinter import *
 import tkinter.filedialog
 import tkinter.messagebox
 

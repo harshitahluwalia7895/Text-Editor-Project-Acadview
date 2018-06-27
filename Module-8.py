@@ -6,6 +6,7 @@ Highlighting Current Line
 """
 
 import os
+from tkinter import *
 from tkinter import Tk, PhotoImage, Menu, Frame, Text, Scrollbar, IntVar, \
     StringVar, BooleanVar, Button, END
 import tkinter.filedialog

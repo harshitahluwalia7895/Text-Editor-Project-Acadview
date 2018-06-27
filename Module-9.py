@@ -3,6 +3,7 @@ Adding cursor location info at bottom
 Adding Color Theme
 """
 import os
+from tkinter import *
 from tkinter import Tk, PhotoImage, Menu, Frame, Text, Scrollbar, IntVar, \
     StringVar, BooleanVar, Button, END, Label, INSERT
 import tkinter.filedialog

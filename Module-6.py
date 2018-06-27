@@ -7,6 +7,9 @@ Adding features:
 
 '''
 from tkinter import *
+import os
+from tkinter import Tk, PhotoImage, Menu, Frame, Text, Scrollbar, IntVar, \
+    StringVar, END
 PROGRAM_NAME = "Text_Editor"
 file_name = None
 
